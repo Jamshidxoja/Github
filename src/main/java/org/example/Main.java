@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("ddf");
         System.out.println("fddfdf");
+        System.out.println("DSds");
 
     }
 }
